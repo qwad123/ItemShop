@@ -1,6 +1,6 @@
 CID_717_Athena_Commando_F_BlueFlames, 1200
 CID_716_Athena_Commando_M_BlueFlames, 1200
-Pickaxe_ID_370_BlueFlames, 800
+Pickaxe_ID_376_FNCS, 800
 na
 na
 na
